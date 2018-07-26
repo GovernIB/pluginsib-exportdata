@@ -1,2 +1,1 @@
 # pluginsib-exportdata
-pluginsib-exportdata
