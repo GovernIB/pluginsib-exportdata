@@ -3,9 +3,9 @@ package org.fundaciobit.plugins.exportdata.csv;
 import java.io.FileOutputStream;
 import java.text.SimpleDateFormat;
 
-import org.fundaciobit.plugins.exportdata.ExportData;
-import org.fundaciobit.plugins.exportdata.ExportFile;
-import org.fundaciobit.plugins.exportdata.ExportItem;
+import org.fundaciobit.pluginsib.exportdata.ExportData;
+import org.fundaciobit.pluginsib.exportdata.ExportFile;
+import org.fundaciobit.pluginsib.exportdata.ExportItem;
 import org.fundaciobit.plugins.exportdata.cvs.CSVPlugin;
 
 

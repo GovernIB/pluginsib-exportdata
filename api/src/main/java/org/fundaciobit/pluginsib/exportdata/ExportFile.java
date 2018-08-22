@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.exportdata;
+package org.fundaciobit.pluginsib.exportdata;
 
 /**
  * 

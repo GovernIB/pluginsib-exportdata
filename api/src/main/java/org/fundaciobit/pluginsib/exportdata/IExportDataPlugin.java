@@ -1,6 +1,6 @@
-package org.fundaciobit.plugins.exportdata;
+package org.fundaciobit.pluginsib.exportdata;
 
-import org.fundaciobit.plugins.IPlugin;
+import org.fundaciobit.pluginsib.core.IPlugin;
 
 /**
  * 
