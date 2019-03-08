@@ -1,25 +1,19 @@
 # ![Logo](https://github.com/GovernIB/maven/raw/binaris/pluginsib/projectinfo_Attachments/icon.jpg) pluginsib-exportdata  (pluginsib-2.0)
-
+"Plugin d'exportació de dades"
 
 **Descripció**
 
+Plugin d'exportació de matrius de dades en diferents formats.
 
-Repositori d'exportació de dades. Exporta una matriu de dades a formats com csv, excel o ods.
+***Versions***
 
-La versió actual d'aquest plugin és la [pluginsib-exportdata-2.0](https://github.com/GovernIB/pluginsib-exportdata/tree/pluginsib-exportdata-2.0)
+> - Versió Estable: -
+> - Versió en Desenvolupament: __pluginsib-core-2.0__ (branca [pluginsib-exportdata-2.0](../../tree/pluginsib-exportdata-2.0))
 
-
-**Implementacions**
-
-Directori | Nom | Descripció
------------- | ------------- | -------------
-csv | -- | -- 
-excel | -- | --
-ods | -- | --
+***Documentació***
 
 
 **Enllaços**
-
 
 Plugin procedent de [pluginsib-1.0/plugins-exportdata](https://github.com/GovernIB/pluginsib/tree/pluginsib-1.0/plugins-exportdata).  
 
