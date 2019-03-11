@@ -12,7 +12,7 @@ Plugin d'exportació de matrius de dades en diferents formats.
 
 ***Documentació***
 
-[Documentació branca estable](../../tree/pluginsib-exportdata-2.0#documentaci%C3%B3)
+[Documentació de branca](../../tree/pluginsib-exportdata-2.0#documentaci%C3%B3)
 
 **Enllaços**
 
