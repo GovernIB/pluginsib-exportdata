@@ -8,3 +8,9 @@ Directori | Descripció | Documentació
 csv | Exporta dades a fitxers en format .csv | -- 
 excel | Exporta dades a fitxers en format .excel | --
 ods | Exporta dades a fitxers en format .ods | --
+
+#### ***Documentació***
+
+Directori | Descripció | Documentació
+------------ | ------------- | -------------
+------------ | ------------- | -------------
