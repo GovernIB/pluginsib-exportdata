@@ -11,7 +11,7 @@ Directori | Descripció | Documentació
 
 Directori | Descripció | Documentació
 ------------ | ------------- | -------------
-api | Interficie de programació del plugin | --
+api | API de exportdata | --
 csv | Exporta dades a fitxers en format .csv | -- 
 excel | Exporta dades a fitxers en format .excel | --
 ods | Exporta dades a fitxers en format .ods | --
