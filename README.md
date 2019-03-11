@@ -12,6 +12,7 @@ Plugin d'exportació de matrius de dades en diferents formats.
 
 ***Documentació***
 
+[Documentació branca estable](../../tree/pluginsib-core-2.0#documentaci%C3%B3)
 
 **Enllaços**
 
