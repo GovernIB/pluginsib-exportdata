@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.exportdata.ods;
+package org.fundaciobit.pluginsib.exportdata.ods;
 
 import java.io.FileOutputStream;
 import java.text.SimpleDateFormat;
@@ -6,6 +6,7 @@ import java.text.SimpleDateFormat;
 import org.fundaciobit.pluginsib.exportdata.ExportData;
 import org.fundaciobit.pluginsib.exportdata.ExportFile;
 import org.fundaciobit.pluginsib.exportdata.ExportItem;
+import org.fundaciobit.pluginsib.exportdata.ods.ODSPlugin;
 
 
 /**

@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.exportdata.excel;
+package org.fundaciobit.pluginsib.exportdata.excel;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

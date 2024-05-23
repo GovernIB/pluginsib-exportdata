@@ -1,18 +1,32 @@
 package org.fundaciobit.pluginsib.exportdata;
 
-import org.fundaciobit.pluginsib.core.IPlugin;
+import org.fundaciobit.pluginsib.core.v3.IPluginIB;
 
 /**
  * 
  * @author anadal
  * 
  */
-public interface IExportDataPlugin extends IPlugin {
+public interface IExportDataPlugin extends IPluginIB {
 
-  public String getName();
+    /**
+     * 
+     * @return
+     */
+    public String getName();
 
-  public ExportFile getIcon();
+    /**
+     * 
+     * @return
+     */
+    public ExportFile getIcon();
 
-  public ExportFile getExportFile(ExportData exportData) throws Exception;
+    /**
+     * 
+     * @param exportData
+     * @return
+     * @throws Exception
+     */
+    public ExportFile getExportFile(ExportData exportData) throws Exception;
 
 }

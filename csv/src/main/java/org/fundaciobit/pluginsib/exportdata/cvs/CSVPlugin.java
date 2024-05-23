@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.exportdata.cvs;
+package org.fundaciobit.pluginsib.exportdata.cvs;
 
 import java.io.IOException;
 

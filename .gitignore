@@ -3,3 +3,17 @@
 /excel/target
 /ods/target
 /target
+/.project
+/.settings
+/api/.project
+/api/.settings
+/api/.classpath
+/ods/.project
+/ods/.settings
+/ods/.classpath
+/excel/.project
+/excel/.settings
+/excel/.classpath
+/csv/.project
+/csv/.settings
+/csv/.classpath

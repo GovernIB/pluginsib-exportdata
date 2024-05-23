@@ -1,4 +1,4 @@
-package org.fundaciobit.plugins.exportdata.ods;
+package org.fundaciobit.pluginsib.exportdata.ods;
 
 import java.io.File;
 import java.io.IOException;

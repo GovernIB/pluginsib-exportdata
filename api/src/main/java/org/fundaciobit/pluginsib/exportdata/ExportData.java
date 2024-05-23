@@ -7,42 +7,42 @@ package org.fundaciobit.pluginsib.exportdata;
  */
 public class ExportData {
 
-  protected String[] titles;
+    protected String[] titles;
 
-  protected ExportItem[][] tableItems;
+    protected ExportItem[][] tableItems;
 
-  /**
-   * 
-   */
-  public ExportData() {
-    super();
-  }
+    /**
+     * 
+     */
+    public ExportData() {
+        super();
+    }
 
-  /**
-   * @param titles
-   * @param fields
-   * @param tableItems
-   */
-  public ExportData(String[] titles, ExportItem[][] tableItems) {
-    super();
-    this.titles = titles;
-    this.tableItems = tableItems;
-  }
+    /**
+     * @param titles
+     * @param fields
+     * @param tableItems
+     */
+    public ExportData(String[] titles, ExportItem[][] tableItems) {
+        super();
+        this.titles = titles;
+        this.tableItems = tableItems;
+    }
 
-  public String[] getTitles() {
-    return titles;
-  }
+    public String[] getTitles() {
+        return titles;
+    }
 
-  public void setTitles(String[] titles) {
-    this.titles = titles;
-  }
+    public void setTitles(String[] titles) {
+        this.titles = titles;
+    }
 
-  public ExportItem[][] getTableItems() {
-    return tableItems;
-  }
+    public ExportItem[][] getTableItems() {
+        return tableItems;
+    }
 
-  public void setTableItems(ExportItem[][] tableItems) {
-    this.tableItems = tableItems;
-  }
+    public void setTableItems(ExportItem[][] tableItems) {
+        this.tableItems = tableItems;
+    }
 
 }

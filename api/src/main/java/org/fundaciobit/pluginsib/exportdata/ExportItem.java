@@ -7,42 +7,42 @@ package org.fundaciobit.pluginsib.exportdata;
  */
 public class ExportItem {
 
-  protected String stringValue;
+    protected String stringValue;
 
-  protected Object value;
+    protected Object value;
 
-  /**
-   * 
-   */
-  public ExportItem() {
-    super();
-  }
+    /**
+     * 
+     */
+    public ExportItem() {
+        super();
+    }
 
-  /**
-   * @param stringValue
-   * @param value
-   * @param field
-   */
-  public ExportItem(String stringValue, Object value) {
-    super();
-    this.stringValue = stringValue;
-    this.value = value;
-  }
+    /**
+     * @param stringValue
+     * @param value
+     * @param field
+     */
+    public ExportItem(String stringValue, Object value) {
+        super();
+        this.stringValue = stringValue;
+        this.value = value;
+    }
 
-  public String getStringValue() {
-    return stringValue;
-  }
+    public String getStringValue() {
+        return stringValue;
+    }
 
-  public void setStringValue(String stringValue) {
-    this.stringValue = stringValue;
-  }
+    public void setStringValue(String stringValue) {
+        this.stringValue = stringValue;
+    }
 
-  public Object getValue() {
-    return value;
-  }
+    public Object getValue() {
+        return value;
+    }
 
-  public void setValue(Object value) {
-    this.value = value;
-  }
+    public void setValue(Object value) {
+        this.value = value;
+    }
 
 }
