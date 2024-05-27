@@ -4,7 +4,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 import org.apache.commons.io.IOUtils;
-import org.apache.log4j.Logger;
+
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
@@ -13,6 +13,7 @@ import org.fundaciobit.pluginsib.exportdata.ExportData;
 import org.fundaciobit.pluginsib.exportdata.ExportFile;
 import org.fundaciobit.pluginsib.exportdata.ExportItem;
 import org.fundaciobit.pluginsib.exportdata.IExportDataPlugin;
+import org.jboss.logging.Logger;
 
 /**
  * 

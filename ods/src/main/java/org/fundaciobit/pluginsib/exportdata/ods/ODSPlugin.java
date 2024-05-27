@@ -8,11 +8,12 @@ import javax.swing.table.TableModel;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
-import org.apache.log4j.Logger;
+
 import org.fundaciobit.pluginsib.exportdata.ExportData;
 import org.fundaciobit.pluginsib.exportdata.ExportFile;
 import org.fundaciobit.pluginsib.exportdata.ExportItem;
 import org.fundaciobit.pluginsib.exportdata.IExportDataPlugin;
+import org.jboss.logging.Logger;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
 
 
